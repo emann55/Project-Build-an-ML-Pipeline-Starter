@@ -1,4 +1,5 @@
-https://wandb.ai/emann55-western-governors-university/nyc_airbnb?nw=nwuseremann55
+[https://wandb.ai/emann55-western-governors-university/nyc_airbnb?nw=nwuseremann55]
+(https://wandb.ai/emann55-western-governors-university/nyc_airbnb/reports/Untitled-Report--VmlldzoxNjg0ODU2NQ?accessToken=thebmv56fdt0672tfqgapnj463wpgt0j4cui965ofsp5q71e3gay3gylc5y7rejt)
 
 # Build an ML Pipeline for Short-Term Rental Prices in NYC
 You are working for a property management company renting rooms and properties for short periods of 
